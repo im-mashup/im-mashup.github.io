@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="314" height="82" viewBox="0 0 314 82">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#FFF" font-family="Gotham-Black, Gotham" font-size="25" font-weight="700">
+            <tspan x="0" y="23">Dae</tspan> <tspan x="0" y="50">Hwan</tspan> <tspan x="0" y="77">Jang</tspan>
+        </text>
+        <text fill="#FFF" font-family="Gotham-Black, Gotham" font-size="25" font-weight="700">
+            <tspan x="108" y="23">The First</tspan> <tspan x="108" y="50">New Year Party</tspan> <tspan x="108" y="77">04-05,Jan,2020</tspan>
+        </text>
+        <path stroke="#FFF" stroke-width="2" d="M90 0v81"/>
+        <g stroke="#FFF" stroke-width="2">
+            <path d="M62 5v18M71 14H53M55.636 7.636l12.728 12.728M55.636 20.364L68.364 7.636"/>
+        </g>
+    </g>
+</svg>
